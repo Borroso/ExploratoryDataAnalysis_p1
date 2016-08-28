@@ -79,10 +79,13 @@ The four plots that you will need to construct are shown below.
 
 **Plot 1**
 ![Plot 1][plot1]
+
 **Plot 2**
 ![Plot 2][plot2]
+
 **Plot 3**
 ![Plot 3][plot3]
+
 **Plot 4**
 ![Plot 4][plot4]
 
