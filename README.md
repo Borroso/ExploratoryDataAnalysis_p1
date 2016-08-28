@@ -86,7 +86,7 @@ The four plots that you will need to construct are shown below.
 **Plot 4**
 ![Plot 4][plot4]
 
-[plot1]: _images/ExDataCP1Plot1.png "Plot 1"
-[plot2]: _images/ExDataCP1Plot2.png "Plot 2"
-[plot3]: _images/ExDataCP1Plot3.png "Plot 3"
-[plot4]: _images/ExDataCP1Plot4.png "Plot 4"
+[plot1]: _images/readme/ExDataCP1Plot1.png "Plot 1"
+[plot2]: _images/readme/ExDataCP1Plot2.png "Plot 2"
+[plot3]: _images/readme/ExDataCP1Plot3.png "Plot 3"
+[plot4]: _images/readme/ExDataCP1Plot4.png "Plot 4"
