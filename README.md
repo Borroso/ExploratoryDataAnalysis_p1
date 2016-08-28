@@ -41,7 +41,7 @@ To that end, keep the following things in mind:
 DO
 
 * Review the source code.
-* Keep an open mind and focus on the positive.≤/li>
+* Keep an open mind and focus on the positive.
 * When in doubt, err on the side of giving too many points, rather than giving too few.
 * Ask yourself if a plot might answer a question for the person who created it.
 * Remember that not everyone has the same statistical background and knowledge.
@@ -77,9 +77,13 @@ When you are finished with the assignment, push your git repository to GitHub so
 
 The four plots that you will need to construct are shown below.
 
+**Plot 1**
 ![Plot 1][plot1]
+**Plot 2**
 ![Plot 2][plot2]
+**Plot 3**
 ![Plot 3][plot3]
+**Plot 4**
 ![Plot 4][plot4]
 
 [plot1]: _images/ExDataCP1Plot1.png "Plot 1"
